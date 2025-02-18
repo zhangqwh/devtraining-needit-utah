@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic_language">
+    <sys_cb_topic_language action="INSERT_OR_UPDATE">
+        <cb_topic_id display_value="Submit a request">f9d76399836b1210b067f496feaad399</cb_topic_id>
+        <language_code>en</language_code>
+        <nlu_entities>[{"node_id":"d371abf2c31a4f21904ba741bb9133cb","variable_name":"search_software","nlu_entity":"SOFTWARE","nlu_entity_label":"SOFTWARE"},{"node_id":"9c74df7d0f3f4bc7bf5158a15042bdfe","variable_name":"search_hardware","nlu_entity":"HARDWARE","nlu_entity_label":"HARDWARE"},{"node_id":"062bc0c760ba4c14a306650c9b9acee4","variable_name":"search_catalogitem","nlu_entity":"requestItem","nlu_entity_label":"requestItem"}]</nlu_entities>
+        <nlu_intent>SubmitARequest (Deprecated)</nlu_intent>
+        <nlu_intent_label>SubmitARequest (Deprecated)</nlu_intent_label>
+        <nlu_model>sn_itsm_nlu_ITSM_NLU_for_VA</nlu_model>
+        <nlu_model_label>ITSM NLU for Virtual Agent</nlu_model_label>
+        <nlu_provider>64c023c17300330021a044764df6a70e</nlu_provider>
+        <sys_class_name>sys_cb_topic_language</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-05 14:23:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>71d76399836b1210b067f496feaad39c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_cb_topic_language_71d76399836b1210b067f496feaad39c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-05 14:23:56</sys_updated_on>
+    </sys_cb_topic_language>
+</record_update>
